@@ -1,0 +1,7 @@
+C:\Users\Yasin\source\repos\Kata-RegexPIN-Validation\Kata-RegexPIN-Validation\bin\Debug\Kata-RegexPIN-Validation.exe.config
+C:\Users\Yasin\source\repos\Kata-RegexPIN-Validation\Kata-RegexPIN-Validation\bin\Debug\Kata-RegexPIN-Validation.exe
+C:\Users\Yasin\source\repos\Kata-RegexPIN-Validation\Kata-RegexPIN-Validation\bin\Debug\Kata-RegexPIN-Validation.pdb
+C:\Users\Yasin\source\repos\Kata-RegexPIN-Validation\Kata-RegexPIN-Validation\obj\Debug\Kata-RegexPIN-Validation.csprojAssemblyReference.cache
+C:\Users\Yasin\source\repos\Kata-RegexPIN-Validation\Kata-RegexPIN-Validation\obj\Debug\Kata-RegexPIN-Validation.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\Kata-RegexPIN-Validation\Kata-RegexPIN-Validation\obj\Debug\Kata-RegexPIN-Validation.exe
+C:\Users\Yasin\source\repos\Kata-RegexPIN-Validation\Kata-RegexPIN-Validation\obj\Debug\Kata-RegexPIN-Validation.pdb
